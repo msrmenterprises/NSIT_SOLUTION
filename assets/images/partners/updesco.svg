@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" role="img" aria-labelledby="title">
+  <title id="title">UPDESCO</title>
+  <rect width="320" height="100" rx="2" fill="#f7f7f7"/>
+  <text x="14" y="72" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="700" font-style="italic" letter-spacing="-5" fill="#171477">up</text>
+  <text x="91" y="72" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" font-style="italic" letter-spacing="-5" fill="#c92536">d</text>
+  <text x="137" y="72" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="700" font-style="italic" letter-spacing="-5" fill="#171477">esco</text>
+</svg>

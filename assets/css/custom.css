@@ -1,0 +1,210 @@
+body.active-light-mode .logo a img.logo-light,  body.active-light-mode .sticky .logo-dark{
+  display: block;
+}
+
+body.active-light-mode .logo-dark, body.active-light-mode .sticky .logo a img.logo-light{
+  display: none;
+}
+body.active-light-mode  .tagcloud a{
+margin-bottom: 10px;
+}
+
+.background-video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 1;
+  transform: translate(-50%, -50%);
+  object-fit: cover;
+  filter: brightness(0.3); /* Darken the video so text is readable */
+}
+
+/* Make sure your content is above the video */
+.slider-area {
+  position: relative;
+  overflow: hidden;
+  z-index: 2;
+}
+
+/* Optional: bring container content above the video */
+.slider-area .container, 
+.slider-area .shape-image {
+  position: relative;
+  z-index: 3;
+}
+
+.review-card {
+  background: rgba(0, 0, 0, 0.3); /* transparent dark background */
+  color: white;
+  border-radius: 12px;
+  overflow: hidden;
+  width: 330px;
+  border: 1px solid #767373;
+}
+body.active-light-mode .review-card h6{
+  color: #fff;
+  margin-bottom: 0px;
+  font-family: 'Inter';
+}
+.review-item {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  margin: 0 0 25px;
+    border-bottom: 1px solid #3b3b3b;
+    padding-bottom: 25px;
+}
+
+.review-logo {
+  max-width: 150px;
+  height: auto;
+}
+
+.rating {
+  margin-top: 5px;
+  font-size: 1.2rem;
+}
+
+.service.service-eight .inner .image{
+  border: 1px solid #fff;
+  padding: 8px;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+.service.service-eight .inner .image img{
+  filter: brightness(0) invert(1);
+  min-width: 100%;
+}
+.service.service-eight .inner .image:hover{
+  transform: scale(1.1);
+}
+.service.service-eight .inner h4 a{
+  color: #fff;
+}
+.service.service-eight.text-left{
+  transition: all 0.3s ease;
+}
+.service.service-eight.text-left:hover {
+  background: linear-gradient(135deg, #ff6a00, #ee0979);
+  color: #fff;
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(255, 106, 0, 0.3);
+}
+
+
+.technologies_sec .nav-tabs {
+  justify-content: center;
+  border-bottom: 1px solid #444;
+}
+.technologies_sec .nav-link {
+  color: #fff;
+  font-size: 2.1rem;
+}
+.technologies_sec .nav-link.active {
+  color: var(--color-primary);
+  border-bottom: 2px solid var(--color-primary);
+  
+}
+.technologies_sec .tech-card {
+  background-color: #1a1a1a;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+.technologies_sec .tech-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 10px rgba(255,255,255,0.2);
+}
+.technologies_sec .tech-icon {
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+.technologies_sec .tech-icon img{
+  max-height: 60px;
+}
+.technologies_sec .tech-card h5 {
+  color: #fff;
+  font-family: inherit;
+}
+
+.rainbow-box-card .inner .thumbnail img{
+  width: 150px;
+    height: 150px;
+}
+
+.form-section {
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+}
+.locations {
+  padding: 30px;
+}
+.location-card {
+  margin-bottom: 30px;
+}
+.location-card div h6 {
+  color: #ff6600;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+  font-size: 18px;
+}
+.phone-bold {
+  font-weight: bold;
+}
+.add-file {
+  color: #00b894;
+}
+.modal-content {
+  border-radius: 20px;
+  overflow: hidden;
+}
+.modal-body {
+  padding: 0;
+}
+.feature-box {
+  background-color: #f8f9fa;
+  padding: 30px;
+  border-radius: 0 0 0 20px;
+}
+.feature-item {
+  background: #fff;
+  border-radius: 12px;
+  padding: 15px;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: flex-start;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+.feature-item img {
+  width: 32px;
+  height: 32px;
+  margin-right: 12px;
+  margin-top: 4px;
+}
+.form-box {
+  padding: 40px;
+}
+.form-box h2 {
+  font-weight: bold;
+}
+.highlight {
+  color: orange;
+}
+.btn-submit {
+  background-color: #004e78;
+  color: white;
+  border-radius: 25px;
+  padding: 8px 25px;
+}
+.btn-close {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  z-index: 2;
+}
