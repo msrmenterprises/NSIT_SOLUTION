@@ -626,7 +626,7 @@
                                             </div>
                                             <div class="col-lg-6 order-1 order-lg-2">
                                                 <div class="thumbnail">
-                                                    <img class="w-100" src="assets/images/timeline/timeline-01.jpg" alt="Understanding Your Business Needs">
+                                                    <img class="w-100" src="assets/images/timeline/indian-team.svg" alt="Indian professionals discussing business needs">
                                                 </div>
                                             </div>
                                         </div>
