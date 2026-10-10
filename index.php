@@ -328,37 +328,37 @@
                 <div class="row g-3">
                     <div class="col-lg-2 col-md-4 col-6">
                         <div class="stat-block">
-                            <span class="stat-num" data-count="25">0<span>+</span></span>
+                            <span class="stat-num" data-count="25">5<span>+</span></span>
                             <span class="stat-label">Years of Experience</span>
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-6">
                         <div class="stat-block">
-                            <span class="stat-num" data-count="500">0<span>+</span></span>
+                            <span class="stat-num" data-count="500">10<span>+</span></span>
                             <span class="stat-label">Projects Delivered</span>
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-6">
                         <div class="stat-block">
-                            <span class="stat-num" data-count="50">0<span>+</span></span>
+                            <span class="stat-num" data-count="50">6<span>+</span></span>
                             <span class="stat-label">Government Portals</span>
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-6">
                         <div class="stat-block">
-                            <span class="stat-num" data-count="40">0<span>+</span></span>
+                            <span class="stat-num" data-count="40">5<span>+</span></span>
                             <span class="stat-label">Active Clients</span>
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-6">
                         <div class="stat-block">
-                            <span class="stat-num" data-count="100">0<span>%</span></span>
+                            <span class="stat-num" data-count="100">10<span>%</span></span>
                             <span class="stat-label">Compliance Adherence</span>
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-6">
                         <div class="stat-block">
-                            <span class="stat-num" data-count="24">0<span>/7</span></span>
+                            <span class="stat-num" data-count="24">2<span>/7</span></span>
                             <span class="stat-label">Support Availability</span>
                         </div>
                     </div>
