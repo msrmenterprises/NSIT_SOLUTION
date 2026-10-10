@@ -702,7 +702,7 @@
                                 <div class="single-content">
                                     <div class="inner">
                                         <div class="row row--30 align-items-center">
-                                            <div class="col-lg-6 mt_md--40 mt_sm--40 order-2 order-lg-1">
+                                            <div class="col-lg-12 mt_md--40 mt_sm--40 order-2 order-lg-1">
                                                 <div class="content">
                                                     <span class="date-of-timeline">Step-1</span>
                                                     <h2 class="title">Understanding Your Business Needs</h2>
@@ -730,13 +730,13 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-lg-6 order-1 order-lg-2">
+                                            <!-- <div class="col-lg-6 order-1 order-lg-2">
                                                 <div class="thumbnail">
                                                     <img class="w-100"
                                                          src="assets/images/timeline/gov-consultation.jpg"
                                                          alt="Government officials discussing project requirements with NS IT Solutions team">
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -748,7 +748,7 @@
                                 <div class="single-content">
                                     <div class="inner">
                                         <div class="row row--30 align-items-center">
-                                            <div class="col-lg-6 mt_md--40 mt_sm--40 order-2 order-lg-1">
+                                            <div class="col-lg-12 mt_md--40 mt_sm--40 order-2 order-lg-1">
                                                 <div class="content">
                                                     <span class="date-of-timeline">Step-2</span>
                                                     <h2 class="title">Design, Development &amp; Deployment</h2>
@@ -773,13 +773,13 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-lg-6 order-1 order-lg-2">
+                                            <!-- <div class="col-lg-6 order-1 order-lg-2">
                                                 <div class="thumbnail">
                                                     <img class="w-100"
                                                          src="assets/images/timeline/gov-development.jpg"
                                                          alt="NS IT Solutions team developing secure government software solutions">
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
