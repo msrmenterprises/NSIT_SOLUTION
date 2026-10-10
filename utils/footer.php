@@ -14,7 +14,7 @@
             <div class="col-md-6 col-lg-4 col-sm-6">
                 <div class="rbt-border radius bg-color-blackest h-100 p-4">
                     <h5 class="w-600 mb--10">Registered Office</h5>
-                    <p class="b3 color-gray mb--0">F-11/260 A, Rajajipuram Lucknow Uttar Pradesh - 22601</p>
+                    <p class="b3 color-gray mb--0">Rajajipuram Lucknow Uttar Pradesh - 22601</p>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 col-sm-6">

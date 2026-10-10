@@ -16,7 +16,7 @@
                     <div class="address-content">
                         <p>
                             <i class="feather-map-pin"></i>
-                            <span>F-11/260 A, Rajajipuram Lucknow Uttar Pradesh - 22601</span>
+                            <span>Rajajipuram Lucknow Uttar Pradesh - 22601</span>
                         </p>
                     </div>
                 </div>
