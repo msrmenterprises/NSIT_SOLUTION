@@ -454,7 +454,7 @@
                             <h4 class="subtitle"><span class="theme-gradient">About Us</span></h4>
                             <h2 class="title w-600 mb--20 mt--20">About NS IT Solutions</h2>
                             <p class="description b1 mb--30">
-                                Founded in 2021 and headquartered in Lucknow, Uttar Pradesh, NS IT Solutions
+                                Founded in 2021, NS IT Solutions
                                 partners with government departments, public sector undertakings, and enterprises
                                 across India to deliver reliable digital transformation.
                             </p>
@@ -940,12 +940,6 @@
       "url": "https://nsit.org.in",
       "logo": "https://nsit.org.in/assets/images/logo/nsit-logo.png",
       "description": "CMMI Level 5 & ISO 27001:2022 certified IT company delivering e-Governance portals, enterprise software, and digital transformation for Government of India, PSUs, and enterprises.",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Gomti Nagar",
-        "addressRegion": "Uttar Pradesh",
-        "addressCountry": "IN"
-      },
       "contactPoint": {
         "@type": "ContactPoint",
         "contactType": "Sales",

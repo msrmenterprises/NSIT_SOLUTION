@@ -91,7 +91,6 @@
                 <div class="text-center mt--40">
                     <p class="mb--5"><strong>NS IT Solutions</strong></p>
                     <p class="mb--5"><a href="mailto:nsitlucknow@gmail.com">nsitlucknow@gmail.com</a> · <a href="mailto:contact@nsit.org.in">contact@nsit.org.in</a></p>
-                    <p class="mb--0">Rajajipuram Lucknow Uttar Pradesh - 22601</p>
                 </div>
             </div>
         </section>
